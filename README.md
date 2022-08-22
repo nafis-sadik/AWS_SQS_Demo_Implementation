@@ -1,1 +1,1 @@
-# AWS_SQS_Demo_Implementation
+# AWS SQS Demo Implementation
