@@ -1,4 +1,4 @@
-![AWS SQS Logo](https://cdn.cdnlogo.com/logos/a/29/aws-sqs.svg | width=100)
+<img src="https://cdn.cdnlogo.com/logos/a/29/aws-sqs.svg" width="250">
 
 # AWS SQS Demo Implementation
 
